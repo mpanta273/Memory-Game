@@ -6,7 +6,9 @@ Submitted by: **Manish Panta**
 
 Time spent: **4** hours spent in total
 
-Link to project: (https://glitch.com/edit/#!/tarry-mesquite-licorice?path=README.md%3A9%3A78)
+**Please use this glitch link to evaluate the project. Due to some reasons the code in this github link does not seems to be working.**
+
+Link to project: (https://glitch.com/edit/#!/tarry-mesquite-licorice?path=README.md%3A9%3A78).
 
 ## Required Functionality
 
